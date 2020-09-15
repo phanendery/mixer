@@ -7,7 +7,7 @@ export default function Questions() {
   const [tequila, findTequila] = useState(false);
   const [wine, findWine] = useState(false);
   const [shot, findShot] = useState(false);
-  const [ginBrandy, findginBrandy] = useState(false);
+  const [ginBrandy, findingBrandy] = useState(false);
 
   return (
     <div>
@@ -27,7 +27,7 @@ export default function Questions() {
         {showTier2 ? (
           <div>
             <button onClick={() => findShot(true)}>Forget</button>
-            <button onClick={() => findginBrandy(true)}>Sulk</button>
+            <button onClick={() => findingBrandy(true)}>Sulk</button>
           </div>
         ) : (
           <p />
