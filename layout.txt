@@ -1,0 +1,20 @@
+Project Layout
+
+-front page with start option
+-then lead into a square with four options
+    -figure out questions first
+-do api call based on what the answers from the users
+
+OPTIONS
+
+
+-Random (Im feeling adventurous) - generate a random number and return that drink
+-I need some liquid courage - generate a random number and return that drink
+-Today was awesome
+    - I want to celebrate - API search with tequila 
+    - I have to get up early tomorrow! - Wine (random between red/white)
+-Today sucked
+    - I want to forget about it - api search with category shot
+    - I would like to sulk - cocktail with gin or rum
+-Today was okay - api search with Random again 
+-I cant drink - API Search category/non alc drinks
