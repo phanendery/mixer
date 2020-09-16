@@ -8,6 +8,7 @@ export default function Questions() {
   const [wine, findWine] = useState(false);
   const [shot, findShot] = useState(false);
   const [ginBrandy, findingBrandy] = useState(false);
+  //fixing names soon
 
   return (
     <div>
