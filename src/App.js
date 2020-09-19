@@ -15,7 +15,7 @@ const StyledInput1 = styled.input`
   background: none;
   border-bottom: solid black 2px;
   width: 400px;
-  font-size: 25px;
+  /* font-size: 25px; */
   font-family: "Baloo 2", cursive;
   /* outline: none; */
 `;
