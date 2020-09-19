@@ -17,7 +17,7 @@ const StyledInput1 = styled.input`
   width: 400px;
   font-size: 25px;
   font-family: "Baloo 2", cursive;
-  outline: none;
+  /* outline: none; */
 `;
 
 const StyledInput2 = styled.input`
