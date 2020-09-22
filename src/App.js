@@ -4,7 +4,7 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 
 const StyledForm = styled.form`
-  font-size: 25px;
+  font-size: 20px;
 `;
 
 const StyledInput1 = styled.input`
